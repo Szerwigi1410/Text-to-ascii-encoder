@@ -1,4 +1,6 @@
-print("Welcome to ascii encoder/decoder!")
+#!/usr/bin/env python
+
+print("Welcome to ascii encoder!")
 
 question = input("Do you want to encode a sentence like a list? (y/n): ")
 
