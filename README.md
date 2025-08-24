@@ -19,7 +19,7 @@ chomd +x install.sh
 
 2. On macOS and Windows
 
- - Just download the .py file
+ - Just download the ```ascii-enc.py``` file
  - And run it with ```python ascii-enc.py``` 
  - Or run it inside IDLE
 
