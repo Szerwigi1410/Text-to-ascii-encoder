@@ -17,5 +17,11 @@ chomd +x install.sh
 ./install.sh
 ```
 
+2. On macOS and Windows
+
+ - Just download the .py file
+ - And run it with ```python ascii-enc.py``` 
+ - Or run it inside IDLE
+
 Thanks for using my encoder!
 I hope it will serve you well!
