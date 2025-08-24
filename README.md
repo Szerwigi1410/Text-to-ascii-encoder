@@ -6,5 +6,16 @@
 
 This is a simple script written in Python that converts characters to ASCII code.
 
+## Installation
+
+1. on Linux (and maybe FreeBSD):
+
+```bash
+git clone https://github.com/Szerwigi1410/Text-to-ascii-encoder.git
+cd Text-to-ascii-encoder
+chomd +x install.sh
+./install.sh
+```
+
 Thanks for using my encoder!
 I hope it will serve you well!
