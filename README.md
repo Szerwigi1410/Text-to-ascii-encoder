@@ -20,7 +20,7 @@ chomd +x install.sh
 2. On macOS and Windows
 
  - Just download the ```ascii-enc.py``` file
- - And run it with ```python ascii-enc.py``` 
+ - And run it with ```python3 ascii-enc.py``` 
  - Or run it inside IDLE
 
 Thanks for using my encoder!
